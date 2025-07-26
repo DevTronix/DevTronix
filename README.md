@@ -54,8 +54,8 @@ Check out: [@DevTronixSources](https://t.me/DevTronixSources) — Free + Paid pr
 
 | Name | Telegram |
 |------|----------|
-| 👨‍💻 RiZoeL | [@ItsRiZoeL](https://t.me/ItsRiZoeL) |
-| 🧙‍♂️ Anand | [@ForGo10God](https://t.me/ForGo10God) |
+| 👨‍💻 RiZoeL (Founder)| [@ItsRiZoeL](https://t.me/ItsRiZoeL) |
+| 🧙‍♂️ Anand (Co-Founder)| [@ForGo10God](https://t.me/ForGo10God) |
 
 📬 Email: [devtroni.co@gmail.com](mailto:devtroni.co@gmail.com)
 
