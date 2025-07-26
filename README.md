@@ -1,7 +1,8 @@
 <h1 align="center">🚀 DevTronix</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Your+One-Stop+Dev+Shop+🛠️;TTelegram+Bots+%7C+Crypto+Scripts+%7C+Web+Dev+%7C+APIs;PPremium+Solutions+%26+Pre-Built+Tools+for+Everyone" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=24&duration=2500&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=We+Build,+Your+Vision;Telegram+Bots+%7C+Crypto+%7C+Web+Dev;Automation+%2B+APIs+%2B+Design;Ready-to-Use+Tools+%26+Systems" alt="Typing SVG" />
 </p>
+
 
 ---
 
