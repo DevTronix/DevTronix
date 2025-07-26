@@ -61,18 +61,43 @@ Check out: [@DevTronixSources](https://t.me/DevTronixSources) — Free + Paid pr
 
 ---
 
-## 🌐 Social Presence
+## 🌐 Social Presence & Tech Stack
 
 <p align="center">
-  <a href="https://t.me/DevTronix"><img src="https://skillicons.dev/icons?i=telegram" height="40" style="margin-right:20px"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://devtronix.co"><img src="https://skillicons.dev/icons?i=html,css,js" height="40" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/devtronix.co"><img src="https://skillicons.dev/icons?i=figma" height="40" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/DevTronix_"><img src="https://skillicons.dev/icons?i=nodejs,py" height="40" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:devtroni.co@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <!-- 🔗 Socials -->
+  <a href="https://t.me/DevTronix"><img src="https://skillicons.dev/icons?i=telegram" height="35"/></a>
+  <a href="https://devtronix.co"><img src="https://skillicons.dev/icons?i=html,css,js" height="35"/></a>
+  <a href="https://instagram.com/devtronix.co"><img src="https://skillicons.dev/icons?i=figma" height="35"/></a>
+  <a href="https://x.com/DevTronix_"><img src="https://skillicons.dev/icons?i=nodejs,py" height="35"/></a>
+  <a href="mailto:devtroni.co@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <!-- 🔤 Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" height="35"/>
+  &nbsp;
+  <!-- ⚙️ Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,django,tailwind,netlify" height="35"/>
+  &nbsp;
+  <!-- 📦 Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" height="35"/>
+  &nbsp;
+  <!-- ☁️ DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker" height="35"/>
+  &nbsp;
+  <!-- 🎨 Design -->
+  <img src="https://skillicons.dev/icons?i=figma,ai,canvas" height="35"/>
+  &nbsp;
+  <!-- 🔒 Blockchain -->
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" height="35"/>
+  <img src="https://img.shields.io/badge/Crypto-blue?style=flat&logo=bitcoin&logoColor=white" height="25"/>
+  &nbsp;
+  <!-- 🔁 Other -->
+  <img src="https://skillicons.dev/icons?i=git,github,reddit" height="35"/>
 </p>
 
 ---
