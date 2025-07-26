@@ -61,16 +61,6 @@ Check out: [@DevTronixSources](https://t.me/DevTronixSources) — Free + Paid pr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Devtronix&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  &nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Devtronix&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-
----
-
 ## 🌐 Social Presence
 
 <p align="center">
